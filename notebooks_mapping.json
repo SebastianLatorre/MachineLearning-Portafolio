@@ -1,0 +1,492 @@
+{
+  "mapping": [
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\01_CNN_CIFAR.ipynb",
+      "base_slug": "cnn-cifar.ipynb",
+      "proposed": "cnn-cifar.ipynb",
+      "description": "### Import TensorFlow"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\1_2_Análisis_de_datos_con_Pandas.ipynb",
+      "base_slug": "2-analisis-de-datos-con-pandas.ipynb",
+      "proposed": "2-analisis-de-datos-con-pandas.ipynb",
+      "description": "# Análisis de datos con Pandas\n\nPara esta primera etapa, utilizaremos la librería [Pandas](https://pandas.pydata.org/). En particular, utilizaremos esta librería para leer un conjunto de datos y realizar un análisis exploratorio de estos. En caso de dudas, [la documentación de Pandas es un excelente lugar para partir](https://pandas.pydata.org/docs/index.html), aunque también hay muchas respuestas en [StackOverflow](https://stackoverflow.com/).\n\n### Recursos adicionales\n\n- [10 minutos introduccion a pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)\n- [Pandas en IPython notebooks](http://nbviewer.jupyter.org/github/jvns/pandas-cookbook/blob/master/cookbook/A%20quick%20tour%20of%20IPython%20Notebook.ipynb)\n- [Leer archivos CSV, ZIP, JSON, o mas de Pandas Library](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html)"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\1_practico_clase1_SLatorre_SistRec.ipynb",
+      "base_slug": "practico-clase1-slatorre-sistrec.ipynb",
+      "proposed": "practico-clase1-slatorre-sistrec.ipynb",
+      "description": "# Práctico Clase 1\n\nNOMBRE ALUMNO: **SEBASTIAN LATORRE DIAZ**\n\nDiplomado en Machine Learning Aplicado UC - 2024\n\n**Profesor:** Vicente Dominguez\n\nEn este práctico compararemos los resultados de algoritmos de recomendación:\n- Most popular.\n- User-based KNN.\n- Item-based KNN.\n\nUtilizaremos la librería **surprise** (https://surpriselib.com/)"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\2.1 - Pandas para análisis de datos.ipynb",
+      "base_slug": "2.1-pandas-para-analisis-de-datos.ipynb",
+      "proposed": "2.1-pandas-para-analisis-de-datos.ipynb",
+      "description": "# Pandas\n\nPandas es una librerías más utilizadas para limpieza, procesamiento y análisis de datos tabulares en Python. Tiene una interfaz fácil de ocupar, y se basa en conceptos similares a los que estamos acostumbrados a utilizar: `DataFrame` (similar a una tabla u hoja de Excel) y `Series` (similar a una columna o un *array* de valores)"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\2.2 - Análisis de datos.ipynb",
+      "base_slug": "2.2-analisis-de-datos.ipynb",
+      "proposed": "2.2-analisis-de-datos.ipynb",
+      "description": "# Análisis de datos en Python"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\2.3 - Ejercicio práctico - EOD 2012.ipynb",
+      "base_slug": "2.3-ejercicio-practico-eod-2012.ipynb",
+      "proposed": "2.3-ejercicio-practico-eod-2012.ipynb",
+      "description": "# Análisis de datos en Python: ejemplo real de uso con información de la EOD 2012"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\2.b.ipynb",
+      "base_slug": "2.b.ipynb",
+      "proposed": "2.b.ipynb",
+      "description": "#2B"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\3.1 - Implementación de modelos con Scikit Learn.ipynb",
+      "base_slug": "3.1-implementacion-de-modelos-con-scikit-learn.ipynb",
+      "proposed": "3.1-implementacion-de-modelos-con-scikit-learn.ipynb",
+      "description": "# Implementación de modelos de ML con Scikit Learn\n\nScikit-Learn es el módulo para ML más conocido y utlizado en Python. Su principal atractivo es una interfaz limpia, uniforme y simple, que facilita la exploración y permite la integración con otros paquetes, como Pandas.\n\nAdemás, posee una completa [documentación en línea](https://scikit-learn.org/0.21/documentation.html). En esta parte del curso, nos centraremos en su esquema para representar datos y su interfaz para usar modelos."
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\3_practico_implicit_feedback_SL.ipynb",
+      "base_slug": "practico-implicit-feedback-sl.ipynb",
+      "proposed": "practico-implicit-feedback-sl.ipynb",
+      "description": "# Práctico 3 - Recomendación basada en feedback implícito.\n\nDiplomado en Machine Learning Aplicado - UC\n\n**Profesor:** Vicente Domínguez\n\n**Nombre Alumno:** **Sebastian Latorre**"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\4_practico_content_based_SL.ipynb",
+      "base_slug": "practico-content-based-sl.ipynb",
+      "proposed": "practico-content-based-sl.ipynb",
+      "description": "# Práctico 4 - Content-based (Texto)\n\nDiplomado ML Aplicado\n\n**Profesor:** Vicente Domínguez\n\n**Nombre del alumno: Sebastian Latorre**\n\n\nEn este proyecto trabajaremos con un modelo de recomendacion de libros de la página [Goodreads](http://www.goodreads.com). El modelo de recomendación de libros es un recomendador basado en contenido, donde se utilizan modelos de lenguage BERT y BERT-large para el cálculo de embeddings de los libros y luego similaridades de ítems. Luego, dependiendo de los libros con los que el usuario ha interactuado, se recomiendan los ítems más similares."
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\5_practico_ensembles_SL.ipynb",
+      "base_slug": "practico-ensembles-sl.ipynb",
+      "proposed": "practico-ensembles-sl.ipynb",
+      "description": "# Práctico Ensembles\n\nDiplomado Machine Learning Aplicado, PUC Chile\n\n**Profesor:** Vicente Domínguez\n\n**Alumno:** `Sebastián Ignacio Latorre Diaz`\n\nEn este práctico vamos a utilizar la biblioteca de Python [fastFM](https://github.com/ibayer/fastFM) para recomendación utilizando máquinas de factorización.\n\nEn este caso utilizaremos un dataset de cervezas, donde además de incluir interacciones de usuarios con los items agregaremos features de cervezas."
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\6.1 - Análisis de datos antes de Streamlit.ipynb",
+      "base_slug": "6.1-analisis-de-datos-antes-de-streamlit.ipynb",
+      "proposed": "6.1-analisis-de-datos-antes-de-streamlit.ipynb",
+      "description": "# Pequeño análisis de datos antes de Streamlit\n\nEn este notebook, solo vamos a realizar un pequeño análisis exploratorio del dataset [Penguins](https://github.com/allisonhorst/penguins).\n\nLa idea poder utilizar este procesamiento como base para constuir nuestra aplicación en Streamlit."
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\6_practico_recomendacion_imagenes_SL.ipynb",
+      "base_slug": "practico-recomendacion-imagenes-sl.ipynb",
+      "proposed": "practico-recomendacion-imagenes-sl.ipynb",
+      "description": "# Práctico Deep Learning para Recomendación\n\nDiplomado Machine Learning Aplicado, PUC Chile\n\n**Profesor:** Vicente Domínguez\n\n**Alumno:** `Sebastián Latorre Diaz`\n\nEn esta actividad trabajaremos con un recomendador de ropa basado netamente en las imagenes más similares extrayendo features con redes neuronales convolucionales."
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\7_practico_MAB_SL.ipynb",
+      "base_slug": "practico-mab-sl.ipynb",
+      "proposed": "practico-mab-sl.ipynb",
+      "description": "# Práctico Multi-armed bandits para recomendación\n\nDiplomado en Machine Learning Aplicado - UC\n\n**Profesor:** Vicente Dominguez <br/>\n\n**Nombre del alumno:** Sebastián Latorre <br/>"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\8_1_Keras_sobre_datos_estructurados_(desbalanceados).ipynb",
+      "base_slug": "1-keras-sobre-datos-estructurados.ipynb",
+      "proposed": "1-keras-sobre-datos-estructurados.ipynb",
+      "description": "# Clasificador simple sobre datos estructurados\n\nNos basaremos el tutorial [Imbalanced classification: credit card fraud detection](https://keras.io/examples/structured_data/imbalanced_classification/), uno de los [ejemplos de Keras sobre datos estructurados](https://keras.io/examples/structured_data/), para utilizar Keras sobre datos de un dominio con el que estamos famirializados.\n\nUtilizaremos el dataset [Kaggle Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud/) para demostrar cómo entrenar un clasificador simple en Keras sobre datos con clases desbalanceadas.\n\n\nRealizaremos los siguientes pasos:\n\n1. Carga del dataset\n2. Preparación del conjunto de validación\n4. Análisis del \"desbalance\" de clases\n5. Estandarización (manual) de datos\n6. Definición del modelo\n7. Entrenamiento del modelo"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Base Evaluación Práctica 1.ipynb",
+      "base_slug": "base-evaluacion-practica-1.ipynb",
+      "proposed": "base-evaluacion-practica-1.ipynb",
+      "description": "# Infomación de entrega\n\n**Nombre estudiante 1:** Sebastian Latorre"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Boosting_datos_reales.ipynb",
+      "base_slug": "boosting-datos-reales.ipynb",
+      "proposed": "boosting-datos-reales.ipynb",
+      "description": "El siguiente código utiliza el conjunto de datos \"Financial Indicators of US stocks\", para entrenar modelos de aprendizaje supervisado. Este conjunto de datos consiste en más de 200 indicadores financieros para distintas acciones, además de dos objetivos: clasificación (¿convenía comprar la acción?) y regresión (¿cuánto varió el precio de la acción?). Puede encontrar más información de este set de datos en: https://www.kaggle.com/cnic92/200-financial-indicators-of-us-stocks-20142018"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\ChonosIFOP.ipynb",
+      "base_slug": "chonosifop.ipynb",
+      "proposed": "chonosifop.ipynb",
+      "description": "# Infomación de entrega\n\n**Nombre estudiante 1:** Sebastian Latorre"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Copia de 2_practico_clase2.ipynb",
+      "base_slug": "copia-de-2-practico-clase2.ipynb",
+      "proposed": "copia-de-2-practico-clase2.ipynb",
+      "description": "# Práctico Clase 2\n\nNOMBRE ALUMNO: **Sebastian Latorre**\n\nDiplomado en Machine Learning Aplicado UC - 2024\n\n**Profesor:** Vicente Domínguez\n\nEn este práctico utilizaremos metodos latentes para recomendación:\n- **Funk SVD:** factorización matricial incorporando regularizacion y optimizacion con gradient descent.\n\n- **NMF:** Non-negative matrix factorization (los valores de factores latentes se dejan como valores positivos)\n\nUtilizaremos la librería **surprise** (https://surpriselib.com/)\n\nReferencia aqui:\nhttps://surprise.readthedocs.io/en/stable/matrix_factorization.html"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Copia de 6.1 - Análisis de datos antes de Streamlit.ipynb",
+      "base_slug": "copia-de-6.1-analisis-de-datos-antes-de-streamlit.ipynb",
+      "proposed": "copia-de-6.1-analisis-de-datos-antes-de-streamlit.ipynb",
+      "description": "# Pequeño análisis de datos antes de Streamlit\n\nEn este notebook, solo vamos a realizar un pequeño análisis exploratorio del dataset [Penguins](https://github.com/allisonhorst/penguins).\n\nLa idea poder utilizar este procesamiento como base para constuir nuestra aplicación en Streamlit."
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Copia de Apollo_11.ipynb",
+      "base_slug": "copia-de-apollo-11.ipynb",
+      "proposed": "copia-de-apollo-11.ipynb",
+      "description": "##### Copyright 2024 Google LLC."
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Copia de DeepLearning _Tarea1_SL.ipynb",
+      "base_slug": "copia-de-deeplearning-tarea1-sl.ipynb",
+      "proposed": "copia-de-deeplearning-tarea1-sl.ipynb",
+      "description": "# Tarea 1 Deep Learning\n`Estudiante: Sebastián Ignacio Latorre Diaz`"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Copia de Evaluación Práctica 33.ipynb",
+      "base_slug": "copia-de-evaluacion-practica-33.ipynb",
+      "proposed": "copia-de-evaluacion-practica-33.ipynb",
+      "description": "# Infomación de entrega\n\n**Nombre estudiante:**"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Copia de Tarea Grupal Fundamentos ML.ipynb",
+      "base_slug": "copia-de-tarea-grupal-fundamentos-ml.ipynb",
+      "proposed": "copia-de-tarea-grupal-fundamentos-ml.ipynb",
+      "description": "##DataSet"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Crossvalidation Desicion Tree.ipynb",
+      "base_slug": "crossvalidation-desicion-tree.ipynb",
+      "proposed": "crossvalidation-desicion-tree.ipynb",
+      "description": "#1A\nEl siguiente codigo, tanto de la parte A) como de la B), se obtuvieron de la siguiente fuente \"https://www.kaggle.com/code/krishnayogi/classification-using-decision-tree\""
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\DeepLearning _Tarea1_SL.ipynb",
+      "base_slug": "deeplearning-tarea1-sl.ipynb",
+      "proposed": "deeplearning-tarea1-sl.ipynb",
+      "description": "# Tarea 1 Deep Learning\n`Estudiante: Sebastián Ignacio Latorre Diaz`"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Evaluación Práctica 2 [ Sebastian Latorre ](1).ipynb",
+      "base_slug": "evaluacion-practica-2.ipynb",
+      "proposed": "evaluacion-practica-2.ipynb",
+      "description": "# Infomación de entrega\n\n**Nombre estudiante:** `Sebastián Latorre Diaz`"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Evaluación Práctica 2 [ Sebastian Latorre ].ipynb",
+      "base_slug": "evaluacion-practica-2.ipynb",
+      "proposed": "evaluacion-practica-2-v2.ipynb",
+      "description": "# Infomación de entrega\n\n**Nombre estudiante:** `Sebastián Latorre Diaz`"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Evaluación Práctica 22.ipynb",
+      "base_slug": "evaluacion-practica-22.ipynb",
+      "proposed": "evaluacion-practica-22.ipynb",
+      "description": "# Infomación de entrega\n\n**Nombre estudiante:**"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Evaluación Práctica 33.ipynb",
+      "base_slug": "evaluacion-practica-33.ipynb",
+      "proposed": "evaluacion-practica-33.ipynb",
+      "description": "# Infomación de entrega\n\n**Nombre estudiante:**"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Evaluación Práctica 44.ipynb",
+      "base_slug": "evaluacion-practica-44.ipynb",
+      "proposed": "evaluacion-practica-44.ipynb",
+      "description": "# Infomación de entrega\n\n**Nombre estudiante:**"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Evaluación Práctica 55.ipynb",
+      "base_slug": "evaluacion-practica-55.ipynb",
+      "proposed": "evaluacion-practica-55.ipynb",
+      "description": "# Infomación de entrega\n\n**Nombre estudiante:**"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Evaluación Práctica 66.ipynb",
+      "base_slug": "evaluacion-practica-66.ipynb",
+      "proposed": "evaluacion-practica-66.ipynb",
+      "description": "# Infomación de entrega\n\n**Nombre estudiante:**"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Evaluación Práctica 77.ipynb",
+      "base_slug": "evaluacion-practica-77.ipynb",
+      "proposed": "evaluacion-practica-77.ipynb",
+      "description": "# Infomación de entrega\n\n**Nombre estudiante:**"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Evaluación Práctica 88.ipynb",
+      "base_slug": "evaluacion-practica-88.ipynb",
+      "proposed": "evaluacion-practica-88.ipynb",
+      "description": "# Infomación de entrega\n\n**Nombre estudiante:**"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Evaluación Práctica 99.ipynb",
+      "base_slug": "evaluacion-practica-99.ipynb",
+      "proposed": "evaluacion-practica-99.ipynb",
+      "description": "# Infomación de entrega\n\n**Nombre estudiante:**"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Extension_de_SVM (1).ipynb",
+      "base_slug": "extension-de-svm.ipynb",
+      "proposed": "extension-de-svm.ipynb",
+      "description": "# Ejercicio 1.\nReplique lo anterior con algún dataset de scikit learn diferente a iris."
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Extension_de_SVM.ipynb",
+      "base_slug": "extension-de-svm.ipynb",
+      "proposed": "extension-de-svm-v2.ipynb",
+      "description": "# Ejercicio 1.\nReplique lo anterior con algún dataset de scikit learn diferente a iris."
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Hyperbolic_multiclass_classification.ipynb",
+      "base_slug": "hyperbolic-multiclass-classification.ipynb",
+      "proposed": "hyperbolic-multiclass-classification.ipynb",
+      "description": "**Manifolds:**\n\n-  [``geoopt.Euclidean``](https://github.com/geoopt/geoopt/blob/master/geoopt/manifolds/euclidean.py) – unconstrained manifold in ``R`` with\nEuclidean metric\n-  [``geoopt.Stiefel``](https://github.com/geoopt/geoopt/blob/master/geoopt/manifolds/stiefel.py) – Stiefel manifold on matrices\n``A in R^{n x p} : A^t A=I``, ``n >= p``\n-  [``geoopt.Sphere``](https://github.com/geoopt/geoopt/blob/master/geoopt/manifolds/sphere.py) - Sphere manifold ``||x||=1``\n-  [``geoopt.BirkhoffPolytope``](https://github.com/geoopt/geoopt/blob/master/geoopt/manifolds/birkhoff_polytope.py) - manifold of Doubly Stochastic matrices\n-  [``geoopt.Stereographic``](https://github.com/geoopt/geoopt/blob/master/geoopt/manifolds/stereographic/manifold.py#L90) - Constant curvature stereographic projection model\n-  [``geoopt.SphereProjection``](https://github.com/geoopt/geoopt/blob/master/geoopt/manifolds/stereographic/manifold.py#L551) - Sphere stereographic projection model\n-  [``geoopt.PoincareBall``](https://github.com/geoopt/geoopt/blob/master/geoopt/manifolds/stereographic/manifold.py#L505) - Poincare ball model\n-  [``geoopt.ProductManifold``](https://github.com/geoopt/geoopt/blob/master/geoopt/manifolds/product.py) - Product manifold constructor\n-  [``geoopt.Scaled``](https://github.com/geoopt/geoopt/blob/master/geoopt/manifolds/scaled.py) - Scaled version of the manifold. Similar to `Learning Mixed-Curvature Representations in Product Spaces if combined with ``ProductManifold``"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Keras.ipynb",
+      "base_slug": "keras.ipynb",
+      "proposed": "keras.ipynb",
+      "description": "Keras"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\kNN_BoW (1).ipynb",
+      "base_slug": "knn-bow.ipynb",
+      "proposed": "knn-bow.ipynb",
+      "description": "Búsqueda de palabras semanticamente similares y análisis de sentimiento"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\kNN_BoW.ipynb",
+      "base_slug": "knn-bow.ipynb",
+      "proposed": "knn-bow-v2.ipynb",
+      "description": "Búsqueda de palabras semanticamente similares y análisis de sentimiento"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Knn_desde_0 (1).ipynb",
+      "base_slug": "knn-desde-0.ipynb",
+      "proposed": "knn-desde-0.ipynb",
+      "description": "Knn desde 0"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Knn_desde_0.ipynb",
+      "base_slug": "knn-desde-0.ipynb",
+      "proposed": "knn-desde-0-v2.ipynb",
+      "description": "Knn desde 0"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\KTP.ipynb",
+      "base_slug": "ktp.ipynb",
+      "proposed": "ktp.ipynb",
+      "description": "#Comparación"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\MLP.ipynb",
+      "base_slug": "mlp.ipynb",
+      "proposed": "mlp.ipynb",
+      "description": "## Setup"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\ModeloKeras Heart.ipynb",
+      "base_slug": "modelokeras-heart.ipynb",
+      "proposed": "modelokeras-heart.ipynb",
+      "description": "# Clasificador simple sobre datos estructurados\n\nNos basaremos el tutorial [Imbalanced classification: credit card fraud detection](https://keras.io/examples/structured_data/imbalanced_classification/), uno de los [ejemplos de Keras sobre datos estructurados](https://keras.io/examples/structured_data/), para utilizar Keras sobre datos de un dominio con el que estamos famirializados.\n\nUtilizaremos el dataset [Kaggle Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud/) para demostrar cómo entrenar un clasificador simple en Keras sobre datos con clases desbalanceadas.\n\n\nRealizaremos los siguientes pasos:\n\n1. Carga del dataset\n2. Preparación del conjunto de validación\n4. Análisis del \"desbalance\" de clases\n5. Estandarización (manual) de datos\n6. Definición del modelo\n7. Entrenamiento del modelo"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\ModeloKeras.ipynb",
+      "base_slug": "modelokeras.ipynb",
+      "proposed": "modelokeras.ipynb",
+      "description": "# Clasificador simple sobre datos estructurados\n\nNos basaremos el tutorial [Imbalanced classification: credit card fraud detection](https://keras.io/examples/structured_data/imbalanced_classification/), uno de los [ejemplos de Keras sobre datos estructurados](https://keras.io/examples/structured_data/), para utilizar Keras sobre datos de un dominio con el que estamos famirializados.\n\nUtilizaremos el dataset [Kaggle Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud/) para demostrar cómo entrenar un clasificador simple en Keras sobre datos con clases desbalanceadas.\n\n\nRealizaremos los siguientes pasos:\n\n1. Carga del dataset\n2. Preparación del conjunto de validación\n4. Análisis del \"desbalance\" de clases\n5. Estandarización (manual) de datos\n6. Definición del modelo\n7. Entrenamiento del modelo"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\NvidiaLAB1.ipynb",
+      "base_slug": "nvidialab1.ipynb",
+      "proposed": "nvidialab1.ipynb",
+      "description": "https://drive.google.com/file/d/1bVrKe7ulc06OlvBJY9rHkFj4sFeC6_bR/view?usp=sharing"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Parte1_EP_SebastianL.ipynb",
+      "base_slug": "parte1-ep-sebastianl.ipynb",
+      "proposed": "parte1-ep-sebastianl.ipynb",
+      "description": "# Evaluación práctica I - Parte 1\n## _NetworkX_"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Random_forests (1).ipynb",
+      "base_slug": "random-forests.ipynb",
+      "proposed": "random-forests.ipynb",
+      "description": "Random forests"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Random_forests.ipynb",
+      "base_slug": "random-forests.ipynb",
+      "proposed": "random-forests-v2.ipynb",
+      "description": "Random forests"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\SebastianLD Evaluación Práctica 1.ipynb",
+      "base_slug": "evaluacion-practica-1.ipynb",
+      "proposed": "evaluacion-practica-1.ipynb",
+      "description": "# Infomación de entrega\n\n**Nombre estudiante 1:** `Sebastian Latorre Diaz`"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\SL - Pandas y Altair (Evaluado) [Enunciado].ipynb",
+      "base_slug": "pandas-y-altair.ipynb",
+      "proposed": "pandas-y-altair.ipynb",
+      "description": "# Pandas y Altair: Declarative Visualization in Python\n\n## Taller **Evaluado**.\n\n**Profesor:** Hernán Valdivieso.\n\n**Ayudante**: Francisca Ibarra y Pablo Araneda.\n\n**Estudiante:** `Sebastián Latorre Diaz`.\n\n-----\n\nEl siguiente _jupyter notebook_ tiene como fin ser una guía de cómo utilizar las librerías de Python [Pandas](https://pandas.pydata.org/) y [Altair](https://altair-viz.github.io/index.html) para:\n\n1. Explorar un _dataset_ de interés: [clasificación de vinos](https://www.kaggle.com/datasets/shelvigarg/wine-quality-dataset).\n2. Construir visualizaciones en el contexto de crear un modelo de _machine learning_ (ML) que clasifique vinos en función de sus otros parámetros (pH, nivel de alcohol, tipo de vino, etc.).\n3. Construir visualizaciones para explorar un _dataset_ de seguros médicos.\n\nPara facilitar la instalación de esta librería, este archivo fue entregado en un [Google Colab](https://colab.research.google.com/) para poder ejecutarlo en los servidores de Google, los cuales ya disponen de todos los recursos necesarios para ejecutar los códigos que implementarás y únicamente requerirá de internet para trabajar con este archivo.\n\n\nEste  _jupyter notebook_ se compone de 7 actividades, las cuales se dividen en 2 partes:\n\n1. Explorar los datos del _dataset_ entregado y aprender algunos usos de la librería [`pandas`](https://pandas.pydata.org/) para preprocesar los datos.\n\n2. Entregar diversos ejemplos de algunos _idioms_ (sinónimo de gráficos), junto con una explicación detallada de qué hace cada línea. Luego, para cada _idiom_ explicado, se solicitará que ustedes intenten crear otro gráfico.\n\nCada actividad **puede ponderar distinto**, es decir, no asuman que cada actividad presentará el mismo puntaje."
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Sobreajuste_de_árboles (1).ipynb",
+      "base_slug": "sobreajuste-de-arboles.ipynb",
+      "proposed": "sobreajuste-de-arboles.ipynb",
+      "description": "Sobreajuste de arboles"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Sobreajuste_de_árboles.ipynb",
+      "base_slug": "sobreajuste-de-arboles.ipynb",
+      "proposed": "sobreajuste-de-arboles-v2.ipynb",
+      "description": "Sobreajuste de arboles"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Support_vector_machines.ipynb",
+      "base_slug": "support-vector-machines.ipynb",
+      "proposed": "support-vector-machines.ipynb",
+      "description": "**SVM básico y vectores de soporte**"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Taller_2_Folium_y_Wordcloud_[Sebastian_Latorre] (1).ipynb",
+      "base_slug": "taller-2-folium-y-wordcloud.ipynb",
+      "proposed": "taller-2-folium-y-wordcloud.ipynb",
+      "description": "# Folium y Wordcloud - Datos Espaciales y de texto\n\n## Taller **Evaluado**.\n\n**Profesor:** Hernán Valdivieso.\n\n**Ayudantes**: Francisca Ibarra y Pablo Araneda.\n\n\n---\n\nEl siguiente _jupyter notebook_ tiene como fin ser una guía de cómo utilizar la librería de Python [Folium](https://python-visualization.github.io/folium/quickstart.html) y [Wordcloud](https://amueller.github.io/word_cloud/auto_examples/index.html) para:\n\n1. Explorar algunos _datasets_ de interés: [NYC Taxi Fare](https://www.kaggle.com/code/breemen/nyc-taxi-fare-data-exploration/data), [House Price Prediction Challenge](https://www.kaggle.com/datasets/anmolkumar/house-price-prediction-challenge) y [Spanish Arilines Tweets Sentiment Analysis](https://www.kaggle.com/competitions/spanish-arilines-tweets-sentiment-analysis/).\n\n2. Construir visualizaciones que aporten a explorar los resultados obtenidos tras utilizar un modelo de _machine learning_ en los _datasets_ anteriormente mencionados.\n\nPara facilitar la instalación de esta librería, este archivo fue entregado en un [Google Colab](https://colab.research.google.com/) para poder ejecutarlo en los servidores de Google, los cuales ya disponen de todos los recursos necesarios para ejecutar los códigos que implementarás y únicamente requerirá de internet para trabajar con este archivo.\n\n\nEste _jupyter notebook_ se compone de 7 actividades, las cuales se dividen en 3 partes:\n\n1. Entregar ejemplos y confeccionar algunas visualizaciones espaciales con el _dataset_ de NYC Taxi Fare. (1 actividad).\n\n2. Confeccionar algunas visualizaciones espaciales con el _dataset_ de House Price Prediction Challenge. (3 actividades).\n\n1. Entregar ejemplos, confeccionar algunas visualizaciones de texto (wordcloud específicamente) con el _dataset_ de Spanish Arilines Tweets Sentiment Analysis y comentar lo observado. (3 actividades).\n\n\nCada actividad **puede ponderar distinto**, es decir, no asuman que cada actividad presentará el mismo puntaje.\n\n---"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Taller_3_Reducción_de_dimensionalidad_[_Sebastian_Latorre_] (1).ipynb",
+      "base_slug": "taller-3-reduccion-de-dimensionalidad.ipynb",
+      "proposed": "taller-3-reduccion-de-dimensionalidad.ipynb",
+      "description": "# Reducción de dimensionalidad\n\n## Taller **Evaluado**.\n\n**Profesor:** Hernán Valdivieso.\n\n**Ayudantes**: Francisca Ibarra y Pablo Araneda.\n\n-----\n\n\n---\nEl siguiente _jupyter notebook_ tiene como fin ser una breve guía de creación de gráficos con interacciones utilizando la librería Altair y de utilización de reducción de dimensionalidad para algunos problemas interesantes.\n\nPara facilitar la instalación de esta librería, este archivo debe ser subido a [Google Colab](https://colab.research.google.com/) para poder ejecutarlo en los servidores de Google, los cuales disponen de todos los recursos necesarios para ejecutar los códigos que implementarás.\n\nEste _jupyter notebook_ se compone de 5 actividades de diferente dificultad (algunas serán preguntas en texto, otras deberán programar y comentar sobre el resultado), las cuales se dividen en 2 partes:\n\n- Reducción de dimensionalidad con datos tabulares (2 actividades)\n- Reducción de dimensionalidad con imágenes (3 actividades)\n\nCada actividad **puede ponderar distinto**, es decir, no asuman que cada actividad presentará el mismo puntaje."
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\tarea copia Boosting.ipynb",
+      "base_slug": "tarea-copia-boosting.ipynb",
+      "proposed": "tarea-copia-boosting.ipynb",
+      "description": "El siguiente código utiliza el conjunto de datos \"Financial Indicators of US stocks\", para entrenar modelos de aprendizaje supervisado. Este conjunto de datos consiste en más de 200 indicadores financieros para distintas acciones, además de dos objetivos: clasificación (¿convenía comprar la acción?) y regresión (¿cuánto varió el precio de la acción?). Puede encontrar más información de este set de datos en: https://www.kaggle.com/cnic92/200-financial-indicators-of-us-stocks-20142018"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Tarea Grupal Fundamentos ML.ipynb",
+      "base_slug": "tarea-grupal-fundamentos-ml.ipynb",
+      "proposed": "tarea-grupal-fundamentos-ml.ipynb",
+      "description": "# **Grupo:**\nRodrigo Molina Mantelli\nSebastian Latorre Diaz"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Tarea1PlataformasML.ipynb",
+      "base_slug": "tarea1plataformasml.ipynb",
+      "proposed": "tarea1plataformasml.ipynb",
+      "description": "Tarea1plataformasml"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Tarea2Fundamentos ML.ipynb",
+      "base_slug": "tarea2fundamentos-ml.ipynb",
+      "proposed": "tarea2fundamentos-ml.ipynb",
+      "description": "#Sebastián Latorre Diaz\n\n\nLos modelos obtenidos han sido basados en las clases teoricas de Fundamentos para Machine Learning y utilizando ChatGpT para mejorar algunos aspectos en los graficos y poder visualizar de mejor manera los resultados."
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Tarea_Grupal_Fundamentos_ML.ipynb",
+      "base_slug": "tarea-grupal-fundamentos-ml.ipynb",
+      "proposed": "tarea-grupal-fundamentos-ml-v2.ipynb",
+      "description": "# **Grupo:**\nRodrigo Molina Mantelli\nSebastian Latorre Diaz"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Untitled0.ipynb",
+      "base_slug": "untitled0.ipynb",
+      "proposed": "untitled0.ipynb",
+      "description": "#1 Instalamos Kaggle\n## Kaggle"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Untitled1.ipynb",
+      "base_slug": "untitled1.ipynb",
+      "proposed": "untitled1.ipynb",
+      "description": "Untitled1"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Untitled2.ipynb",
+      "base_slug": "untitled2.ipynb",
+      "proposed": "untitled2.ipynb",
+      "description": "Untitled2"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Untitled3.ipynb",
+      "base_slug": "untitled3.ipynb",
+      "proposed": "untitled3.ipynb",
+      "description": "Red GCN encontrada en:\n\nhttps://stellargraph.readthedocs.io/en/v1.0.0rc1/demos/node-classification/gcn/gcn-cora-node-classification-example.html"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Untitled4.ipynb",
+      "base_slug": "untitled4.ipynb",
+      "proposed": "untitled4.ipynb",
+      "description": "Untitled4"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Yolov11 Fine tuning EPP.ipynb",
+      "base_slug": "yolov11-fine-tuning-epp.ipynb",
+      "proposed": "yolov11-fine-tuning-epp.ipynb",
+      "description": "https://www.youtube.com/watch?v=qu2qAXr4Des&t=429s"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\yolov5customobj.ipynb",
+      "base_slug": "yolov5customobj.ipynb",
+      "proposed": "yolov5customobj.ipynb",
+      "description": "Yolov5customobj"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Árboles_con_sklearn (1).ipynb",
+      "base_slug": "arboles-con-sklearn.ipynb",
+      "proposed": "arboles-con-sklearn.ipynb",
+      "description": "### Clasificación con árboles de decisión en scikit-learn"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Árboles_con_sklearn.ipynb",
+      "base_slug": "arboles-con-sklearn.ipynb",
+      "proposed": "arboles-con-sklearn-v2.ipynb",
+      "description": "### Clasificación con árboles de decisión en scikit-learn"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Árboles_de_decisión_desde_0 (1).ipynb",
+      "base_slug": "arboles-de-decision-desde-0.ipynb",
+      "proposed": "arboles-de-decision-desde-0.ipynb",
+      "description": "Arboles de decision desde 0"
+    },
+    {
+      "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Árboles_de_decisión_desde_0.ipynb",
+      "base_slug": "arboles-de-decision-desde-0.ipynb",
+      "proposed": "arboles-de-decision-desde-0-v2.ipynb",
+      "description": "Arboles de decision desde 0"
+    }
+  ],
+  "collisions": {
+    "evaluacion-practica-2.ipynb": [
+      "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Evaluación Práctica 2 [ Sebastian Latorre ](1).ipynb",
+      "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Evaluación Práctica 2 [ Sebastian Latorre ].ipynb"
+    ],
+    "extension-de-svm.ipynb": [
+      "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Extension_de_SVM (1).ipynb",
+      "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Extension_de_SVM.ipynb"
+    ],
+    "knn-bow.ipynb": [
+      "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\kNN_BoW (1).ipynb",
+      "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\kNN_BoW.ipynb"
+    ],
+    "knn-desde-0.ipynb": [
+      "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Knn_desde_0 (1).ipynb",
+      "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Knn_desde_0.ipynb"
+    ],
+    "random-forests.ipynb": [
+      "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Random_forests (1).ipynb",
+      "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Random_forests.ipynb"
+    ],
+    "sobreajuste-de-arboles.ipynb": [
+      "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Sobreajuste_de_árboles (1).ipynb",
+      "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Sobreajuste_de_árboles.ipynb"
+    ],
+    "tarea-grupal-fundamentos-ml.ipynb": [
+      "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Tarea Grupal Fundamentos ML.ipynb",
+      "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Tarea_Grupal_Fundamentos_ML.ipynb"
+    ],
+    "arboles-con-sklearn.ipynb": [
+      "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Árboles_con_sklearn (1).ipynb",
+      "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Árboles_con_sklearn.ipynb"
+    ],
+    "arboles-de-decision-desde-0.ipynb": [
+      "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Árboles_de_decisión_desde_0 (1).ipynb",
+      "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Árboles_de_decisión_desde_0.ipynb"
+    ]
+  }
+}

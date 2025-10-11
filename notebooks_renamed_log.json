@@ -1,0 +1,714 @@
+[
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\01_CNN_CIFAR.ipynb",
+    "status": "missing"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\1_2_Análisis_de_datos_con_Pandas.ipynb",
+    "status": "missing"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\1_practico_clase1_SLatorre_SistRec.ipynb",
+    "status": "missing"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\2.1 - Pandas para análisis de datos.ipynb",
+    "status": "missing"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\2.2 - Análisis de datos.ipynb",
+    "status": "missing"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\2.3 - Ejercicio práctico - EOD 2012.ipynb",
+    "status": "missing"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\2.b.ipynb",
+    "status": "missing"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\3.1 - Implementación de modelos con Scikit Learn.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\3.1-implementacion-de-modelos-con-scikit-learn.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\3_practico_implicit_feedback_SL.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\practico-implicit-feedback-sl.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\4_practico_content_based_SL.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\practico-content-based-sl.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\5_practico_ensembles_SL.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\practico-ensembles-sl.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\6.1 - Análisis de datos antes de Streamlit.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\6.1-analisis-de-datos-antes-de-streamlit.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\6_practico_recomendacion_imagenes_SL.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\practico-recomendacion-imagenes-sl.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\7_practico_MAB_SL.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\practico-mab-sl.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\8_1_Keras_sobre_datos_estructurados_(desbalanceados).ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\1-keras-sobre-datos-estructurados.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Base Evaluación Práctica 1.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\base-evaluacion-practica-1.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Boosting_datos_reales.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\boosting-datos-reales.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\ChonosIFOP.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\chonosifop.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Copia de 2_practico_clase2.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\copia-de-2-practico-clase2.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Copia de 6.1 - Análisis de datos antes de Streamlit.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\copia-de-6.1-analisis-de-datos-antes-de-streamlit.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Copia de Apollo_11.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\copia-de-apollo-11.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Copia de DeepLearning _Tarea1_SL.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\copia-de-deeplearning-tarea1-sl.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Copia de Evaluación Práctica 33.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\copia-de-evaluacion-practica-33.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Copia de Tarea Grupal Fundamentos ML.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\copia-de-tarea-grupal-fundamentos-ml.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Crossvalidation Desicion Tree.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\crossvalidation-desicion-tree.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\DeepLearning _Tarea1_SL.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\deeplearning-tarea1-sl.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Evaluación Práctica 2 [ Sebastian Latorre ](1).ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\evaluacion-practica-2.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Evaluación Práctica 2 [ Sebastian Latorre ].ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\evaluacion-practica-2-v2.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Evaluación Práctica 22.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\evaluacion-practica-22.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Evaluación Práctica 33.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\evaluacion-practica-33.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Evaluación Práctica 44.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\evaluacion-practica-44.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Evaluación Práctica 55.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\evaluacion-practica-55.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Evaluación Práctica 66.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\evaluacion-practica-66.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Evaluación Práctica 77.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\evaluacion-practica-77.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Evaluación Práctica 88.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\evaluacion-practica-88.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Evaluación Práctica 99.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\evaluacion-practica-99.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Extension_de_SVM (1).ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\extension-de-svm.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Extension_de_SVM.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\extension-de-svm-v2.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Hyperbolic_multiclass_classification.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\hyperbolic-multiclass-classification.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Keras.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\keras.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\kNN_BoW (1).ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\knn-bow.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\kNN_BoW.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\knn-bow-v2.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Knn_desde_0 (1).ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\knn-desde-0.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Knn_desde_0.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\knn-desde-0-v2.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\KTP.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\ktp.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\MLP.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\mlp.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\ModeloKeras Heart.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\modelokeras-heart.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\ModeloKeras.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\modelokeras.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\NvidiaLAB1.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\nvidialab1.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Parte1_EP_SebastianL.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\parte1-ep-sebastianl.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Random_forests (1).ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\random-forests.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Random_forests.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\random-forests-v2.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\SebastianLD Evaluación Práctica 1.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\evaluacion-practica-1.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\SL - Pandas y Altair (Evaluado) [Enunciado].ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\pandas-y-altair.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Sobreajuste_de_árboles (1).ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\sobreajuste-de-arboles.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Sobreajuste_de_árboles.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\sobreajuste-de-arboles-v2.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Support_vector_machines.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\support-vector-machines.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Taller_2_Folium_y_Wordcloud_[Sebastian_Latorre] (1).ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\taller-2-folium-y-wordcloud.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Taller_3_Reducción_de_dimensionalidad_[_Sebastian_Latorre_] (1).ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\taller-3-reduccion-de-dimensionalidad.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\tarea copia Boosting.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\tarea-copia-boosting.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Tarea Grupal Fundamentos ML.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\tarea-grupal-fundamentos-ml.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Tarea1PlataformasML.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\tarea1plataformasml.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Tarea2Fundamentos ML.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\tarea2fundamentos-ml.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Tarea_Grupal_Fundamentos_ML.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\tarea-grupal-fundamentos-ml-v2.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Untitled0.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\untitled0.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Untitled1.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\untitled1.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Untitled2.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\untitled2.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Untitled3.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\untitled3.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Untitled4.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\untitled4.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Yolov11 Fine tuning EPP.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\yolov11-fine-tuning-epp.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\yolov5customobj.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\yolov5customobj.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Árboles_con_sklearn (1).ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\arboles-con-sklearn.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Árboles_con_sklearn.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\arboles-con-sklearn-v2.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Árboles_de_decisión_desde_0 (1).ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\arboles-de-decision-desde-0.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "original": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\Árboles_de_decisión_desde_0.ipynb",
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\arboles-de-decision-desde-0-v2.ipynb",
+    "status": "moved-to-temp"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\1-keras-sobre-datos-estructurados.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\1-keras-sobre-datos-estructurados.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\3.1-implementacion-de-modelos-con-scikit-learn.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\3.1-implementacion-de-modelos-con-scikit-learn.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\6.1-analisis-de-datos-antes-de-streamlit.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\6.1-analisis-de-datos-antes-de-streamlit.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\arboles-con-sklearn-v2.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\arboles-con-sklearn-v2.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\arboles-con-sklearn.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\arboles-con-sklearn.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\arboles-de-decision-desde-0-v2.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\arboles-de-decision-desde-0-v2.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\arboles-de-decision-desde-0.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\arboles-de-decision-desde-0.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\base-evaluacion-practica-1.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\base-evaluacion-practica-1.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\boosting-datos-reales.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\boosting-datos-reales.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\chonosifop.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\chonosifop.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\copia-de-2-practico-clase2.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\copia-de-2-practico-clase2.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\copia-de-6.1-analisis-de-datos-antes-de-streamlit.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\copia-de-6.1-analisis-de-datos-antes-de-streamlit.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\copia-de-apollo-11.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\copia-de-apollo-11.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\copia-de-deeplearning-tarea1-sl.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\copia-de-deeplearning-tarea1-sl.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\copia-de-evaluacion-practica-33.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\copia-de-evaluacion-practica-33.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\copia-de-tarea-grupal-fundamentos-ml.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\copia-de-tarea-grupal-fundamentos-ml.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\crossvalidation-desicion-tree.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\crossvalidation-desicion-tree.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\deeplearning-tarea1-sl.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\deeplearning-tarea1-sl.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\evaluacion-practica-1.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\evaluacion-practica-1.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\evaluacion-practica-2-v2.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\evaluacion-practica-2-v2.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\evaluacion-practica-2.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\evaluacion-practica-2.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\evaluacion-practica-22.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\evaluacion-practica-22.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\evaluacion-practica-33.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\evaluacion-practica-33.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\evaluacion-practica-44.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\evaluacion-practica-44.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\evaluacion-practica-55.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\evaluacion-practica-55.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\evaluacion-practica-66.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\evaluacion-practica-66.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\evaluacion-practica-77.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\evaluacion-practica-77.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\evaluacion-practica-88.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\evaluacion-practica-88.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\evaluacion-practica-99.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\evaluacion-practica-99.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\extension-de-svm-v2.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\extension-de-svm-v2.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\extension-de-svm.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\extension-de-svm.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\hyperbolic-multiclass-classification.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\hyperbolic-multiclass-classification.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\keras.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\keras.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\knn-bow-v2.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\knn-bow-v2.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\knn-bow.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\knn-bow.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\knn-desde-0-v2.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\knn-desde-0-v2.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\knn-desde-0.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\knn-desde-0.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\ktp.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\ktp.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\mlp.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\mlp.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\modelokeras-heart.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\modelokeras-heart.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\modelokeras.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\modelokeras.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\nvidialab1.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\nvidialab1.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\pandas-y-altair.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\pandas-y-altair.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\parte1-ep-sebastianl.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\parte1-ep-sebastianl.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\practico-content-based-sl.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\practico-content-based-sl.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\practico-ensembles-sl.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\practico-ensembles-sl.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\practico-implicit-feedback-sl.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\practico-implicit-feedback-sl.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\practico-mab-sl.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\practico-mab-sl.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\practico-recomendacion-imagenes-sl.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\practico-recomendacion-imagenes-sl.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\random-forests-v2.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\random-forests-v2.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\random-forests.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\random-forests.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\sobreajuste-de-arboles-v2.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\sobreajuste-de-arboles-v2.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\sobreajuste-de-arboles.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\sobreajuste-de-arboles.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\support-vector-machines.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\support-vector-machines.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\taller-2-folium-y-wordcloud.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\taller-2-folium-y-wordcloud.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\taller-3-reduccion-de-dimensionalidad.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\taller-3-reduccion-de-dimensionalidad.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\tarea-copia-boosting.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\tarea-copia-boosting.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\tarea-grupal-fundamentos-ml-v2.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\tarea-grupal-fundamentos-ml-v2.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\tarea-grupal-fundamentos-ml.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\tarea-grupal-fundamentos-ml.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\tarea1plataformasml.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\tarea1plataformasml.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\tarea2fundamentos-ml.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\tarea2fundamentos-ml.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\untitled0.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\untitled0.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\untitled1.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\untitled1.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\untitled2.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\untitled2.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\untitled3.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\untitled3.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\untitled4.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\untitled4.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\yolov11-fine-tuning-epp.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\yolov11-fine-tuning-epp.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename\\yolov5customobj.ipynb",
+    "final": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\Notebooks\\yolov5customobj.ipynb",
+    "status": "moved-to-final"
+  },
+  {
+    "temp_dir": "c:\\Users\\Sebastian Latorre\\Downloads\\escritorio\\OneDrive\\Escritorio\\MachineLearning-Portafolio\\_tmp_notebooks_rename",
+    "status": "removed"
+  }
+]
