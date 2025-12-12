@@ -1,132 +1,207 @@
-# Portafolio de Proyectos de Machine Learning
+# Machine Learning Portfolio
 
-Este repositorio reúne notebooks Jupyter usados como portafolio y material didáctico sobre técnicas y proyectos de Machine Learning. Los notebooks están organizados por tema para facilitar la navegación y la revisión de ejemplos prácticos, ejercicios y proyectos personales.
+**Sebastián Latorre** — Data Scientist & ML Engineer
 
-## Estructura y propósito
-
--   Carpeta principal de notebooks: `Notebooks/`
--   Objetivo: mostrar ejemplos prácticos, implementaciones y ejercicios de cursos y proyectos personales en clasificación, regresión, aprendizaje profundo, procesamiento de imágenes, sistemas de recomendación y análisis de datos.
-
-Si encuentras notebooks con nombres genéricos (por ejemplo, `Untitled*.ipynb`) que deberían documentarse mejor, indica cuáles y los puedo renombrar o agrupar.
-
-Archivo generado: versión agrupada por temas (automática). Para ver descripciones completas extraídas de cada notebook, consulta `notebooks_mapping.json`.
-
-Última actualización: 2025-10-11
-
-## Índice agrupado (resumen)
-
-Listado agrupado por temas para facilitar la navegación. Abre cualquier notebook desde `Notebooks/<nombre>.ipynb`.
-
-Revisa también `notebooks_mapping.json` para las descripciones completas extraídas de la primera celda de cada notebook y `notebooks_renamed_log.json` para el registro del renombrado.
-
-## Deep Learning & Keras
-
--   [Cnn Cifar](Notebooks/cnn-cifar.ipynb) — Import TensorFlow
--   [Copia De Deeplearning Tarea1 Sl](Notebooks/copia-de-deeplearning-tarea1-sl.ipynb) — Tarea 1 Deep Learning
--   [Deeplearning Tarea1 Sl](Notebooks/deeplearning-tarea1-sl.ipynb) — Tarea 1 Deep Learning
--   [Keras](Notebooks/keras.ipynb) — Keras
--   [Keras Sobre Datos Estructurados](Notebooks/1-keras-sobre-datos-estructurados.ipynb) — Clasificador simple sobre datos estructurados
--   [Mlp](Notebooks/mlp.ipynb) — Setup
--   [Modelokeras](Notebooks/modelokeras.ipynb) — Clasificador simple sobre datos estructurados
--   [Modelokeras Heart](Notebooks/modelokeras-heart.ipynb) — Clasificador simple sobre datos estructurados
--   [Practico Recomendacion Imagenes Sl](Notebooks/practico-recomendacion-imagenes-sl.ipynb) — Práctico Deep Learning para Recomendación
-
-## Computer Vision & Object Detection
-
--   [Yolov11 Fine Tuning Epp](Notebooks/yolov11-fine-tuning-epp.ipynb) — https://www.youtube.com/watch?v=qu2qAXr4Des&t=429s
--   [Yolov5customobj](Notebooks/yolov5customobj.ipynb) — Yolov5customobj
-
-## Natural Language & NLP
-
--   [Knn Bow](Notebooks/knn-bow.ipynb) — Búsqueda de palabras semanticamente similares y análisis de sentimiento
--   [Knn Bow](Notebooks/knn-bow-v2.ipynb) — Búsqueda de palabras semanticamente similares y análisis de sentimiento
--   [Practico Content Based Sl](Notebooks/practico-content-based-sl.ipynb) — Práctico 4 - Content-based (Texto)
--   [Taller 2 Folium Y Wordcloud](Notebooks/taller-2-folium-y-wordcloud.ipynb) — Folium y Wordcloud - Datos Espaciales y de texto
-
-## Recommender Systems
-
--   [Practico Clase1 Slatorre Sistrec](Notebooks/practico-clase1-slatorre-sistrec.ipynb) — Práctico Clase 1
--   [Practico Implicit Feedback Sl](Notebooks/practico-implicit-feedback-sl.ipynb) — Práctico 3 - Recomendación basada en feedback implícito.
--   [Practico Mab Sl](Notebooks/practico-mab-sl.ipynb) — Práctico Multi-armed bandits para recomendación
-
-## Exploratory Data Analysis & Pandas
-
--   [Analisis De Datos](Notebooks/2.2-analisis-de-datos.ipynb) — Análisis de datos en Python
--   [Analisis De Datos Antes De Streamlit](Notebooks/6.1-analisis-de-datos-antes-de-streamlit.ipynb) — Pequeño análisis de datos antes de Streamlit
--   [Analisis De Datos Con Pandas](Notebooks/2-analisis-de-datos-con-pandas.ipynb) — Análisis de datos con Pandas
--   [Copia De 6.1 Analisis De Datos Antes De Streamlit](Notebooks/copia-de-6.1-analisis-de-datos-antes-de-streamlit.ipynb) — Copia de análisis para Streamlit
--   [Ejercicio Practico Eod 2012](Notebooks/2.3-ejercicio-practico-eod-2012.ipynb) — Ejemplo EOD 2012
--   [Pandas Para Analisis De Datos](Notebooks/2.1-pandas-para-analisis-de-datos.ipynb) — Pandas
--   [Pandas Y Altair](Notebooks/pandas-y-altair.ipynb) — Taller evaluado Pandas + Altair
-
-## Ensembles & Trees
-
--   [Arboles Con Sklearn](Notebooks/arboles-con-sklearn.ipynb) — Clasificación con árboles de decisión en scikit-learn
--   [Arboles Con Sklearn (v2)](Notebooks/arboles-con-sklearn-v2.ipynb) — Variante
--   [Arboles De Decision Desde 0](Notebooks/arboles-de-decision-desde-0.ipynb) — Arboles de decision desde 0
--   [Arboles De Decision Desde 0 (v2)](Notebooks/arboles-de-decision-desde-0-v2.ipynb) — Variante
--   [Boosting Datos Reales](Notebooks/boosting-datos-reales.ipynb) — Boosting aplicado a indicadores financieros
--   [Practico Ensembles Sl](Notebooks/practico-ensembles-sl.ipynb) — Práctico Ensembles
--   [Random Forests](Notebooks/random-forests.ipynb) — Random forests
--   [Random Forests (v2)](Notebooks/random-forests-v2.ipynb) — Variante
--   [Sobreajuste De Arboles](Notebooks/sobreajuste-de-arboles.ipynb) — Sobreajuste de arboles
--   [Sobreajuste De Arboles (v2)](Notebooks/sobreajuste-de-arboles-v2.ipynb) — Variante
--   [Tarea Copia Boosting](Notebooks/tarea-copia-boosting.ipynb) — Código de boosting (copia)
-
-## Classical ML (SVM / KNN / Support)
-
--   [Extension De Svm](Notebooks/extension-de-svm.ipynb) — Ejercicio SVM
--   [Extension De Svm (v2)](Notebooks/extension-de-svm-v2.ipynb) — Variante
--   [Knn Desde 0](Notebooks/knn-desde-0.ipynb) — Knn desde 0
--   [Knn Desde 0 (v2)](Notebooks/knn-desde-0-v2.ipynb) — Variante
--   [Ktp](Notebooks/ktp.ipynb) — Comparación / tests
--   [Support Vector Machines](Notebooks/support-vector-machines.ipynb) — SVM básico
-
-## Graph / GNN / Manifolds
-
--   [Hyperbolic Multiclass Classification](Notebooks/hyperbolic-multiclass-classification.ipynb) — Notas sobre manifolds / geoopt
--   [Untitled3](Notebooks/untitled3.ipynb) — Referencia GCN
-
-## Workshops & Tutorials
-
--   [Copia De 2 Practico Clase2](Notebooks/copia-de-2-practico-clase2.ipynb) — Práctico Clase 2
--   [Copia De Apollo 11](Notebooks/copia-de-apollo-11.ipynb) — Contenido de ejemplo
--   [Copia De Evaluacion Practica 33](Notebooks/copia-de-evaluacion-practica-33.ipynb) — Entregas / plantilla
--   [Copia De Tarea Grupal Fundamentos Ml](Notebooks/copia-de-tarea-grupal-fundamentos-ml.ipynb) — Copia tarea grupal
--   [Nvidialab1](Notebooks/nvidialab1.ipynb) — Enlace a recurso
--   [Parte1 Ep Sebastianl](Notebooks/parte1-ep-sebastianl.ipynb) — Evaluación práctica I - NetworkX
--   [Taller 3 Reduccion De Dimensionalidad](Notebooks/taller-3-reduccion-de-dimensionalidad.ipynb) — Reducción de dimensionalidad
-
-## Course exercises & Deliverables
-
--   [Base Evaluacion Practica 1](Notebooks/base-evaluacion-practica-1.ipynb) — Plantilla / entrega práctica
--   [Chonosifop](Notebooks/chonosifop.ipynb) — Entrega / ejemplo
--   [Evaluacion Practica 1](Notebooks/evaluacion-practica-1.ipynb) — Entrega práctica 1
--   [Evaluacion Practica 2](Notebooks/evaluacion-practica-2.ipynb) — Entrega práctica 2
--   [Evaluacion Practica 2 (v2)](Notebooks/evaluacion-practica-2-v2.ipynb) — Variante
--   [Evaluacion Practica 22](Notebooks/evaluacion-practica-22.ipynb) — Entrega práctica 22
--   [Evaluacion Practica 33](Notebooks/evaluacion-practica-33.ipynb) — Entrega práctica 33
--   [Evaluacion Practica 44](Notebooks/evaluacion-practica-44.ipynb) — Entrega práctica 44
--   [Evaluacion Practica 55](Notebooks/evaluacion-practica-55.ipynb) — Entrega práctica 55
--   [Evaluacion Practica 66](Notebooks/evaluacion-practica-66.ipynb) — Entrega práctica 66
--   [Evaluacion Practica 77](Notebooks/evaluacion-practica-77.ipynb) — Entrega práctica 77
--   [Evaluacion Practica 88](Notebooks/evaluacion-practica-88.ipynb) — Entrega práctica 88
--   [Evaluacion Practica 99](Notebooks/evaluacion-practica-99.ipynb) — Entrega práctica 99
--   [Tarea Grupal Fundamentos Ml](Notebooks/tarea-grupal-fundamentos-ml.ipynb) — Proyecto grupal
--   [Tarea Grupal Fundamentos Ml (v2)](Notebooks/tarea-grupal-fundamentos-ml-v2.ipynb) — Variante
--   [Tarea1plataformasml](Notebooks/tarea1plataformasml.ipynb) — Tarea 1 plataformas ML
--   [Tarea2fundamentos Ml](Notebooks/tarea2fundamentos-ml.ipynb) — Tarea 2 Fundamentos ML
-
-## Others
-
--   [.b](Notebooks/2.b.ipynb) — 2B
--   [Crossvalidation Desicion Tree](Notebooks/crossvalidation-desicion-tree.ipynb) — Ejemplo Decision Tree
--   [Implementacion De Modelos Con Scikit Learn](Notebooks/3.1-implementacion-de-modelos-con-scikit-learn.ipynb) — Implementación con scikit-learn
--   [Untitled0](Notebooks/untitled0.ipynb) — Instalación / Kaggle setup
--   [Untitled1](Notebooks/untitled1.ipynb) — untitled
--   [Untitled2](Notebooks/untitled2.ipynb) — untitled
--   [Untitled4](Notebooks/untitled4.ipynb) — untitled
+Portafolio profesional de proyectos en Machine Learning, Deep Learning y Data Science. Este repositorio contiene implementaciones prácticas, desde algoritmos clásicos desarrollados desde cero hasta arquitecturas de redes neuronales avanzadas, demostrando dominio tanto teórico como aplicado.
 
 ---
 
-Si quieres que agrupe diferente (por ejemplo: nivel — introductorio/intermedio/avanzado—, o por semestre/proyecto), indícamelo y lo ajusto.
+## 📋 Contenido del Repositorio
+
+Este portafolio incluye:
+
+-   Implementaciones de algoritmos ML desde cero (Decision Trees, KNN, SVM)
+-   Proyectos de Deep Learning con TensorFlow/Keras
+-   Análisis de datos y visualización con Pandas, Altair y Matplotlib
+-   Sistemas de recomendación (Content-Based, Collaborative Filtering)
+-   Modelos de Computer Vision (CNNs, YOLO)
+-   Proyectos aplicados con datasets reales
+
+---
+
+## 🗂️ Mapa del Portafolio
+
+### Fundamentos de Machine Learning
+
+| Notebook                                                                             | Descripción                                                                |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
+| [Árboles de Decisión desde Cero](Notebooks/arboles-de-decision-desde-0.ipynb)        | Implementación completa del algoritmo de árboles de decisión sin librerías |
+| [Árboles con Scikit-Learn](Notebooks/arboles-con-sklearn.ipynb)                      | Decision Trees para clasificación y regresión usando sklearn               |
+| [KNN desde Cero](Notebooks/knn-desde-0.ipynb)                                        | Implementación del algoritmo K-Nearest Neighbors desde cero                |
+| [Random Forests](Notebooks/random-forests.ipynb)                                     | Ensemble methods con Random Forests                                        |
+| [Support Vector Machines](Notebooks/support-vector-machines.ipynb)                   | Clasificación con SVM y extensiones de kernel                              |
+| [Extensión de SVM](Notebooks/extension-de-svm.ipynb)                                 | Técnicas avanzadas con Support Vector Machines                             |
+| [Boosting con Datos Reales](Notebooks/boosting-datos-reales.ipynb)                   | Aplicación de Gradient Boosting en datasets reales                         |
+| [Cross-Validation con Decision Trees](Notebooks/crossvalidation-desicion-tree.ipynb) | Validación cruzada para optimización de modelos                            |
+| [Sobreajuste en Árboles](Notebooks/sobreajuste-de-arboles.ipynb)                     | Análisis y prevención de overfitting                                       |
+
+### Deep Learning
+
+| Notebook                                                                                     | Descripción                                        |
+| -------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| [CNN para Fashion MNIST](Notebooks/deeplearning-tarea1-sl.ipynb)                             | Red Neuronal Convolucional con estudio de ablación |
+| [CNN para CIFAR-10](Notebooks/cnn-cifar.ipynb)                                               | Clasificación de imágenes con arquitectura CNN     |
+| [Keras Fundamentos](Notebooks/keras.ipynb)                                                   | Introducción práctica al framework Keras           |
+| [Keras sobre Datos Estructurados](Notebooks/1-keras-sobre-datos-estructurados.ipynb)         | Redes neuronales para datos tabulares              |
+| [Modelo Keras - Heart Disease](Notebooks/modelokeras-heart.ipynb)                            | Predicción de enfermedades cardíacas con DL        |
+| [Modelo Keras Aplicado](Notebooks/modelokeras.ipynb)                                         | Arquitecturas de redes neuronales en producción    |
+| [MLP - Perceptrón Multicapa](Notebooks/mlp.ipynb)                                            | Fundamentos de redes neuronales feed-forward       |
+| [GCN - Graph Neural Networks](Notebooks/gcn-graph-networks.ipynb)                            | Redes neuronales sobre grafos                      |
+| [Clasificación Hiperbólica Multiclase](Notebooks/hyperbolic-multiclass-classification.ipynb) | Clasificación en espacios hiperbólicos             |
+
+### Computer Vision
+
+| Notebook                                                           | Descripción                                 |
+| ------------------------------------------------------------------ | ------------------------------------------- |
+| [YOLOv11 Fine-Tuning EPP](Notebooks/yolov11-fine-tuning-epp.ipynb) | Detección de objetos con YOLO personalizado |
+| [YOLOv5 Custom Objects](Notebooks/yolov5customobj.ipynb)           | Entrenamiento de detector de objetos custom |
+
+### Sistemas de Recomendación
+
+| Notebook                                                                        | Descripción                                     |
+| ------------------------------------------------------------------------------- | ----------------------------------------------- |
+| [Content-Based Filtering](Notebooks/practico-content-based-sl.ipynb)            | Sistema de recomendación basado en contenido    |
+| [Implicit Feedback](Notebooks/practico-implicit-feedback-sl.ipynb)              | Recomendaciones con retroalimentación implícita |
+| [Recomendación de Imágenes](Notebooks/practico-recomendacion-imagenes-sl.ipynb) | Sistema de recomendación visual                 |
+| [Multi-Armed Bandits](Notebooks/practico-mab-sl.ipynb)                          | Exploración vs explotación en recomendaciones   |
+
+### Análisis de Datos y Visualización
+
+| Notebook                                                                              | Descripción                                   |
+| ------------------------------------------------------------------------------------- | --------------------------------------------- |
+| [Análisis de Datos con Pandas](Notebooks/2-analisis-de-datos-con-pandas.ipynb)        | Manipulación y análisis de datos              |
+| [Pandas para Análisis de Datos](Notebooks/2.1-pandas-para-analisis-de-datos.ipynb)    | Técnicas avanzadas con Pandas                 |
+| [Análisis de Datos](Notebooks/2.2-analisis-de-datos.ipynb)                            | EDA y preprocesamiento                        |
+| [Ejercicio Práctico EOD 2012](Notebooks/2.3-ejercicio-practico-eod-2012.ipynb)        | Análisis de encuesta origen-destino           |
+| [Pandas y Altair](Notebooks/pandas-y-altair.ipynb)                                    | Visualización interactiva con Altair          |
+| [Análisis Pre-Streamlit](Notebooks/6.1-analisis-de-datos-antes-de-streamlit.ipynb)    | Preparación de datos para dashboards          |
+| [Folium y WordCloud](Notebooks/taller-2-folium-y-wordcloud.ipynb)                     | Visualización geoespacial y nubes de palabras |
+| [Reducción de Dimensionalidad](Notebooks/taller-3-reduccion-de-dimensionalidad.ipynb) | PCA, t-SNE y técnicas de embedding            |
+
+### Proyectos Aplicados
+
+| Notebook                                                                                          | Descripción                                   |
+| ------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| [Kaggle Titanic Setup](Notebooks/kaggle-titanic-setup.ipynb)                                      | Pipeline completo para competencia Kaggle     |
+| [Ensembles Práctico](Notebooks/practico-ensembles-sl.ipynb)                                       | Combinación de modelos para mejor rendimiento |
+| [KNN con Bag of Words](Notebooks/knn-bow.ipynb)                                                   | Clasificación de texto con KNN                |
+| [Implementación con Scikit-Learn](Notebooks/3.1-implementacion-de-modelos-con-scikit-learn.ipynb) | Pipeline de ML con sklearn                    |
+| [NVIDIA Lab 1](Notebooks/nvidialab1.ipynb)                                                        | Laboratorio de Deep Learning NVIDIA DLI       |
+
+---
+
+## ⭐ Proyectos Destacados
+
+### 1. CNN para Fashion MNIST con Estudio de Ablación
+
+**[deeplearning-tarea1-sl.ipynb](Notebooks/deeplearning-tarea1-sl.ipynb)**
+
+Implementación de una Red Neuronal Convolucional para clasificación de prendas de vestir. Incluye un estudio de ablación sistemático que compara diferentes arquitecturas (cantidad de filtros, capas densas) para optimizar el rendimiento del modelo.
+
+-   **Tipo de problema:** Clasificación de imágenes multiclase
+-   **Stack:** TensorFlow, Keras, NumPy, Matplotlib
+-   **Resultado:** Análisis comparativo de arquitecturas con métricas de accuracy y visualización de predicciones
+
+---
+
+### 2. YOLOv11 Fine-Tuning para Detección de EPP
+
+**[yolov11-fine-tuning-epp.ipynb](Notebooks/yolov11-fine-tuning-epp.ipynb)**
+
+Fine-tuning del modelo YOLOv11 para detección de Equipos de Protección Personal en entornos industriales. Proyecto aplicado con dataset personalizado y evaluación de métricas de detección.
+
+-   **Tipo de problema:** Detección de objetos en tiempo real
+-   **Stack:** Ultralytics YOLO, PyTorch, OpenCV
+-   **Impacto:** Modelo deployable para seguridad industrial
+
+---
+
+### 3. Árboles de Decisión desde Cero
+
+**[arboles-de-decision-desde-0.ipynb](Notebooks/arboles-de-decision-desde-0.ipynb)**
+
+Implementación completa del algoritmo de árboles de decisión sin usar librerías de ML. Incluye cálculo de entropía, ganancia de información, división recursiva y visualización de la estructura del árbol.
+
+-   **Tipo de problema:** Clasificación supervisada
+-   **Stack:** Python puro, NumPy
+-   **Aprendizaje:** Comprensión profunda del funcionamiento interno de Decision Trees
+
+---
+
+### 4. Sistema de Recomendación Content-Based
+
+**[practico-content-based-sl.ipynb](Notebooks/practico-content-based-sl.ipynb)**
+
+Desarrollo de un sistema de recomendación basado en contenido, utilizando técnicas de similitud y representación de características para generar recomendaciones personalizadas.
+
+-   **Tipo de problema:** Sistemas de recomendación
+-   **Stack:** Pandas, Scikit-Learn, NumPy
+-   **Aplicación:** Recomendaciones personalizadas basadas en características de ítems
+
+---
+
+### 5. Análisis Exploratorio con Visualización Interactiva
+
+**[pandas-y-altair.ipynb](Notebooks/pandas-y-altair.ipynb)**
+
+Proyecto de análisis de datos que combina la potencia de Pandas para manipulación de datos con Altair para crear visualizaciones interactivas y declarativas.
+
+-   **Tipo de problema:** Análisis exploratorio de datos
+-   **Stack:** Pandas, Altair, Vega-Lite
+-   **Resultado:** Visualizaciones interactivas para storytelling con datos
+
+---
+
+## 🚀 Cómo Ejecutar los Notebooks
+
+### Opción 1: Google Colab (Recomendado)
+
+1. Navega al notebook deseado en GitHub
+2. Reemplaza `github.com` por `colab.research.google.com/github` en la URL
+3. Ejecuta las celdas secuencialmente
+
+### Opción 2: Local con Jupyter
+
+```bash
+# Clonar el repositorio
+git clone https://github.com/SebastianLatorre/MachineLearning-Portafolio.git
+cd MachineLearning-Portafolio
+
+# Crear entorno virtual
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+venv\Scripts\activate     # Windows
+
+# Instalar dependencias
+pip install jupyter numpy pandas scikit-learn tensorflow matplotlib seaborn altair
+
+# Iniciar Jupyter
+jupyter notebook
+```
+
+---
+
+## 🛠️ Stack Tecnológico
+
+| Categoría           | Tecnologías                         |
+| ------------------- | ----------------------------------- |
+| **Lenguaje**        | Python 3.8+                         |
+| **ML Clásico**      | Scikit-Learn, XGBoost               |
+| **Deep Learning**   | TensorFlow, Keras, PyTorch          |
+| **Computer Vision** | OpenCV, Ultralytics YOLO            |
+| **Datos**           | Pandas, NumPy                       |
+| **Visualización**   | Matplotlib, Seaborn, Altair, Plotly |
+| **Entorno**         | Jupyter, Google Colab               |
+
+---
+
+## 📬 Contacto
+
+**Sebastián Latorre**
+
+-   💼 LinkedIn: [https://www.linkedin.com/in/sebastianlatorred]
+-   🐙 GitHub: [https://github.com/SebastianLatorre]
+
+---
+
+_Este portafolio está en constante evolución. Los proyectos reflejan mi trayectoria de aprendizaje y aplicación práctica en Machine Learning y Data Science._
